@@ -1,0 +1,5 @@
+Start the Python Flask application.
+Direct employees to the local website (usually http://127.0.0.1:5000/ when running Flask locally).
+Let them try to "log in."
+Show how their "credentials" were captured by the Python script.
+This demonstration provides a practical understanding of the dangers of phishing. Ensure you emphasize the importance of checking website URLs and using Two-Factor Authentication (2FA) as added layers of security.
